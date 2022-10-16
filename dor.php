@@ -60,7 +60,7 @@ if (strpos(json_encode($login), '"status":true')) {
     $pilih = trim(fgets(STDIN));
     switch ($pilih) {
             case '1':
-            $prodid = '1590547';
+            $prodid = '64079';
             break;
             case '2':
             $prodid = '24165';
